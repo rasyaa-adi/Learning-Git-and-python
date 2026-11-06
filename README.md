@@ -1,6 +1,6 @@
-=======================
-      LEARNIG GIT
-=======================
+==================================
+      LEARNIG GIT AND PYTHON
+==================================
 
 A. Git init
 B. Git add & Git commit
@@ -12,3 +12,9 @@ FITUR FITURNYA YAITU:
   2. Kategori dan daftar buku | -Udin
   3. Sistem pinjam buku | -Dono
   4. Sistem pengembalian buku | -Santo
+
+
+Materi PYTHON:
+ 1. Kondisi percabangan
+ 2. Looping
+ 3. Tipe data List dan Directory
